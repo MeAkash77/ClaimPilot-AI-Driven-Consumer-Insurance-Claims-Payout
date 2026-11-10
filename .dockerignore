@@ -1,0 +1,15 @@
+frontend/node_modules/
+frontend/src/
+frontend/package*.json
+frontend/tsconfig*
+frontend/vite.config*
+tests/
+.git/
+__pycache__/
+*.pyc
+.env
+venv/
+node_modules/
+*.db
+chroma_db/
+claimpilot.egg-info/
